@@ -6,6 +6,7 @@
 ![Track](https://img.shields.io/badge/Track-IT_AI_Agent_for_Programming-2EA44F?style=flat-square)
 ![Coverage](https://img.shields.io/badge/Test_Coverage-100%25-brightgreen?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
+[![Live Demo](https://img.shields.io/badge/GitHub_Pages-Live_Demo-0969da?style=flat-square&logo=github)](https://indraprhmbd.github.io/autotest-cli-capstone/)
 
 **Capstone Project: Hacktiv8 x IBM SkillsBuild**
 * **Jenis Course:** IT - AI Agent for Programming
